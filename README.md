@@ -3,6 +3,8 @@ NSTextAttachment subclass for iOS 7+ that allows images to be drawn in text with
 
 It's currently just a proof of concept but may be of use.
 
+<img width=256 src="https://raw.github.com/Krelborn/KITextAttachment/master/Screenshot.png" alt="KILabel Screenshot">
+
 ## Install
 ### Copy
 Download or checkout sources and drag KITextAttachment.h and .m into your XCode project.
